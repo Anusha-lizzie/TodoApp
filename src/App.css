@@ -1,0 +1,30 @@
+.light-blue-bg {
+  background-color: lightblue !important;
+}
+
+.yellow-bg {
+  background-color: yellow !important;
+}
+
+.red-bg {
+  background-color: red !important;
+  color: white;
+}
+
+.App {
+  text-align: center;
+  margin: 20px;
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  margin: 10px 0;
+}
